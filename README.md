@@ -1,16 +1,13 @@
-### Hi there 👋
+**Pix Integra** é um gateway de pagamento inovador, oferecendo transações via PIX, BOLETO e Bitcoin em breve. Nossa missão é proporcionar uma experiência de pagamento eficiente e segura, atendendo às demandas modernas do mercado.
 
-<!--
-**Pixintegra/Pixintegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Recursos
 
-Here are some ideas to get you started:
+- **PIX**: Pagamentos instantâneos.
+- **BOLETO**: Integração completa.
+- **Bitcoin**: Em breve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Junte-se a nós e descubra o futuro dos pagamentos.
+
+## Contato
+
+Mais informações em nosso [site](https://pixintegra.com.br) ou via **contato@pixintegra.com**.
