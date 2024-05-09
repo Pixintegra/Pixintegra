@@ -10,4 +10,4 @@ Junte-se a nós e descubra o futuro dos pagamentos.
 
 ## Contato
 
-Mais informações em nosso [site](https://pixintegra.com.br) ou via **contato@pixintegra.com**.
+Mais informações em nosso [site](https://pixintegra.com.br) ou via **contato@pixintegra.com.br**.
