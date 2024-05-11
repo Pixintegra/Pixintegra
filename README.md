@@ -3,7 +3,7 @@
 ## Recursos
 
 - **PIX**: Pagamentos instantâneos.
-- **BOLETO**: Integração completa.
+- **BOLETO**:  Em breve.
 - **Bitcoin**: Em breve.
 
 Junte-se a nós e descubra o futuro dos pagamentos.
